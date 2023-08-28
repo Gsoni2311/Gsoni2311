@@ -1,4 +1,4 @@
-![logo](https://github.com/Gsoni2311/Gsoni2311/blob/main/UIUX%20Designer%20(1).png)
+![logo](https://github.com/Gsoni2311/Gsoni2311/blob/main/DESIGNER.mp4)
 <h1 align="center">Hi 👋, I'm Gautam soni</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
 <img align="right" alt="Designing" width="400" src="https://i.gifer.com/origin/dc/dcbe625c0747b5ed8bf27868dc3ef7a1_w200.webp">
