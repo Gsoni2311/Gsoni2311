@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gautam soni</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
-<img align="right" alt="Designing" width="400" src="https://iconscout.com/lottie/ui-ux-designer-design-mobile-application-9170969">
+<img align="right" alt="Designing" width="400" src="https://i.gifer.com/origin/dc/dcbe625c0747b5ed8bf27868dc3ef7a1_w200.webp">
 
 - 🔭 I’m currently working on **Learn UP application UI**
 
 - 🌱 I’m currently learning **UI/UX design,Front End**
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/community/file/1236995817545344862](https://www.figma.com/community/file/1236995817545344862)
-
+- 👨‍💻 All of my projects are available at https://www.behance.net/Gsoni2311/projects.
 - 📫 How to reach me **Gautamsoni2311@gmail.com**
 
 - ⚡ Fun fact **I think I am a Aosmmmmm !**
