@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam soni</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
-<img align="right" alt="Designing" width="400" src="https://giphy.com/gifs/scaler-official-tech-designer-developer-lXHwJv89PvdN200Anr">
+<img align="right" alt="Designing" width="400" src="Downloads">
 
 - 🔭 I’m currently working on **Learn UP application UI**
 
