@@ -1,3 +1,4 @@
+[![MasterHead](https://www.canva.com/design/DAFspLndvEk/sx2BenhRIO5pzdwrIkCZ-w/edit)]
 <h1 align="center">Hi 👋, I'm Gautam soni</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
 <img align="right" alt="Designing" width="400" src="https://i.gifer.com/origin/dc/dcbe625c0747b5ed8bf27868dc3ef7a1_w200.webp">
