@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam soni</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
-<img align="right" alt="Designing" width="400" src="Downloads">
+<img align="right" alt="Designing" width="400" src="https://iconscout.com/lottie/ui-ux-designer-design-mobile-application-9170969">
 
 - 🔭 I’m currently working on **Learn UP application UI**
 
